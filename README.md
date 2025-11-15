@@ -105,30 +105,3 @@ We welcome contributions from our team! Please follow these steps:
 
 [Specify your license here, e.g., MIT, Apache 2.0, etc. If none yet, state: "No specific license defined yet." ]
 
----
-
-### **Instructions for you to update your `README.md`:**
-
-1.  **Take a Screenshot of Your Current Welcome Page:**
-    * Run `npm run dev`.
-    * Open `http://localhost:3000` in your browser.
-    * Take a clean screenshot of the entire browser window showing the "Agentify: Mission Briefing!" page.
-
-2.  **Upload the Screenshot to an Image Hosting Service:**
-    * Go to an image hosting service like [Imgur](https://imgur.com/upload) or similar.
-    * Upload your screenshot.
-    * Once uploaded, copy the **direct image link** (usually ends with `.png` or `.jpg`).
-
-3.  **Update Your Local `README.md` File:**
-    * Open the `README.md` file in the root of your `agentify` project (`E:\LeetcodeAgent\Agentify\agentify\README.md`) in your code editor.
-    * **Replace the placeholder link** `https://i.imgur.com/your-image-link-here.png` with the direct image link you copied in step 2.
-
-4.  **Commit and Push Your Updated `README.md`:**
-
-    ```bash
-    git add README.md
-    git commit -m "Update README.md with project overview, features, and team welcome screenshot"
-    git push origin main
-    ```
-
-Now, when anyone visits your GitHub repository, they'll see a professional and informative README right away\!
