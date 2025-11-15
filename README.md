@@ -1,7 +1,6 @@
 # Agentify - Your AI-Powered Coding Partner 🚀
 
-![Agentify Team Welcome Page Screenshot](<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/226aa33f-a7a1-4e02-85fe-f4e538193913" />)
-*(Replace `https://i.imgur.com/your-image-link-here.png` with the actual link to your screenshot. See instructions below.)*
+![Agentify Team Welcome Page Screenshot](https://github.com/user-attachments/assets/226aa33f-a7a1-4e02-85fe-f4e538193913)
 
 ---
 
