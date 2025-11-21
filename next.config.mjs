@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
-  reactCompiler: true,
-};
+  // Remove the experimental.appDir since it's enabled by default in Next.js 13+
+}
 
-export default nextConfig;
+export default nextConfig
